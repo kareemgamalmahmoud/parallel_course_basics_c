@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c1xx : warning C4199: two-phase name lookup is not supported for C++/CLI, C++/CX, or OpenMP; use /Zc:twoPhase-
+f:\جامعة\س4ت1\parallel\labs\lab1\lab 1_2 parallel test2 home made\lab 1_2 parallel test2 home made\source.cpp(14): warning C4326: return type of 'main' should be 'int' instead of 'void'
+f:\جامعة\س4ت1\parallel\labs\lab1\lab 1_2 parallel test2 home made\lab 1_2 parallel test2 home made\source.cpp(36): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  lab 1_2 parallel test2 home made.vcxproj -> F:\جامعة\س4ت1\parallel\labs\lab1\lab 1_2 parallel test2 home made\Debug\lab 1_2 parallel test2 home made.exe
